@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I’m @Rushikesh Amberkar<br>👀 I’m interested in Full Stack developement<br>🌱 I’m currently learning Competitive Programing and improving full stack development<br>🤝 Love to collaborate with other developers<br>📫 How to reach me: dadaambre2003@gmail.com
+👋 I’m @Rushikesh Amberkar<br>👀 I’m interested in Full Stack developement<br>🌱 I’m currently learning Competitive Programing and improving full stack development<br>🤝 Love to collaborate with other developers<br>📫 How to reach me: rushikeshamberkar123@gmail.com
 
 
 ## 🌐 Socials:
